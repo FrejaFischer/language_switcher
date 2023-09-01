@@ -1,0 +1,31 @@
+body {
+  display: grid;
+  height: 100vh;
+  margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 2em;
+}
+.head_div {
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+  /* Perry the platapus?!*/
+  /* border-top: solid rgb(158, 116, 62) 5em; */
+}
+label {
+  font-size: 0.5em;
+}
+.header {
+  align-self: end;
+  margin: 0.5em;
+}
+p {
+  margin: 0.5em;
+}
+.footer {
+  align-self: end;
+  background-color: orange;
+  height: 5rem;
+  margin: 0;
+  padding: 0.5em;
+}
